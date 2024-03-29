@@ -62,7 +62,7 @@ Claro, aqui está o texto formatado para o `README.md`:
   - `200 OK`: Returns a JSON object with the task.
   - `422 Unprocessable Content`: If the task with the given ID is not found.
 
-### PUT/PATCH `/api/tasks/{id}`
+### PUT `/api/tasks/{id}`
 
 - **Description**: Update a specific task by ID.
 - **Parameters**:
