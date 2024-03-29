@@ -17,11 +17,19 @@
 - Or change `.env.example` to `.env`.
 
 2. Run the database migration:
--  > php artisan migrate
+```bash
+php artisan migrate
+```
 
 3. Run the application:
-- > composer install
-- > php artisan key:generate
-- > php artisan serve
+```bash
+composer install
+```
+```bash
+php artisan key:generate
+```
+```bash
+php artisan serve
+```
 
 
