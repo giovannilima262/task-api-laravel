@@ -32,4 +32,6 @@ php artisan key:generate
 php artisan serve
 ```
 
+## Build
+All commits made to the main branch will automatically generate a commit to the heroku project.
 
